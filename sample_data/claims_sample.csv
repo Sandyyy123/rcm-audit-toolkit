@@ -1,0 +1,10 @@
+claim_id,session_id,payer,submitted_date,status,denial_code,amount_billed
+C001,S001,UHC,2026-01-07,denied,CO-4,180.00
+C002,S002,BCBS,2026-01-08,paid,,120.00
+C003,S003,Aetna,2026-01-09,paid,,180.00
+C004,S004,UHC,2026-01-10,denied,CO-97,150.00
+C005,S005,Cigna,2026-01-11,pending,,180.00
+C006,S006,UHC,2026-01-14,denied,CO-4,180.00
+C007,S007,BCBS,2026-01-15,paid,,120.00
+C008,S008,Aetna,2026-01-16,denied,CO-16,180.00
+C009,S009,UHC,2026-01-17,paid,,180.00

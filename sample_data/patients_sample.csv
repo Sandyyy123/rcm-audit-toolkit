@@ -1,0 +1,9 @@
+patient_id,payer,autopay_enrolled,card_on_file
+PT001,UHC,False,False
+PT002,BCBS,True,True
+PT003,Aetna,True,True
+PT004,UHC,False,False
+PT005,Cigna,True,True
+PT006,BCBS,True,True
+PT007,UHC,False,False
+PT008,Self-Pay,False,False
