@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Mental Health Revenue Cycle Audit Toolkit
 
 A Python toolkit for auditing revenue cycle management in private mental health practices. Identifies claims leakage, billing workflow gaps, and TIQ reconciliation issues.
